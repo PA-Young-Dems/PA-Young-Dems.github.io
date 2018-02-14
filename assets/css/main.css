@@ -2073,22 +2073,22 @@
 			}
 
 			.features section .icon {
-				-moz-transition: opacity 0.5s ease, -moz-transform 0.5s ease;
-				-webkit-transition: opacity 0.5s ease, -webkit-transform 0.5s ease;
-				-ms-transition: opacity 0.5s ease, -ms-transform 0.5s ease;
-				transition: opacity 0.5s ease, transform 0.5s ease;
-				-moz-transition-delay: 1s;
-				-webkit-transition-delay: 1s;
-				-ms-transition-delay: 1s;
-				transition-delay: 1s;
-				-moz-transform: scale(1);
-				-webkit-transform: scale(1);
-				-ms-transform: scale(1);
-				transform: scale(1);
-				position: absolute;
-				left: 3em;
-				top: 3em;
-				opacity: 1;
+	-moz-transition: opacity 0.5s ease, -moz-transform 0.5s ease;
+	-webkit-transition: opacity 0.5s ease, -webkit-transform 0.5s ease;
+	-ms-transition: opacity 0.5s ease, -ms-transform 0.5s ease;
+	transition: opacity 0.5s ease, transform 0.5s ease;
+	-moz-transition-delay: 1s;
+	-webkit-transition-delay: 1s;
+	-ms-transition-delay: 1s;
+	transition-delay: 1s;
+	-moz-transform: scale(1);
+	-webkit-transform: scale(1);
+	-ms-transform: scale(1);
+	transform: scale(1);
+	position: absolute;
+	left: 56px;
+	top: 54px;
+	opacity: 1;
 			}
 
 			.features section:nth-child(1) .icon {
