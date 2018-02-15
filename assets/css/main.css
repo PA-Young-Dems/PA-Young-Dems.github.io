@@ -1687,16 +1687,12 @@
 		margin: 0 0 1rem 0;
 	}
 
-		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, h7 a{
+		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			color: inherit;
 			text-decoration: none;
 		}
 
 	h2 {
-		font-size: 1.75rem;
-	}
-
-	h7 {
 		font-size: 1.75rem;
 	}
 
@@ -1792,7 +1788,7 @@
 		color: #555;
 	}
 
-	h1, h2, h3, h4, h5, h6, h7 {
+	h1, h2, h3, h4, h5, h6 {
 		color: #555;
 	}
 
@@ -2701,7 +2697,7 @@
 				color: #ffffff;
 			}
 
-			.wrapper.style1 h1, .wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6, .wrapper.style h7 {
+			.wrapper.style1 h1, .wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
 				color: #ffffff;
 			}
 
@@ -2913,10 +2909,6 @@
 				color: #000;
 			}
 
-			.wrapper.style2 h7 {
-				color: #FFFFFF;
-			}
-
 			.wrapper.style2 blockquote {
 				border-left-color: rgba(0, 0, 0, 0.15);
 			}
@@ -2950,7 +2942,7 @@
 				.wrapper.style2 .button.alt {
 					background-color: transparent;
 					box-shadow: inset 0 0 0 2px rgba(0, 0, 0, 0.15);
-					color: #FFFFFF;
+					color: #000 !important;
 				}
 
 					.wrapper.style2 input[type="submit"].alt:hover,
