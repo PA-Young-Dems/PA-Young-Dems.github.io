@@ -1,6 +1,7 @@
 @charset "UTF-8";
-@import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
+@import url("font-awesome.min.css");
+
 
 /*
 	Hielo by TEMPLATED
@@ -5501,18 +5502,6 @@ padding: 3rem 0 1rem 0 ;
 	}
 
 	@-webkit-keyframes reveal-header {
-		0% {
-			top: -4em;
-			opacity: 0;
-		}
-
-		100% {
-			top: 0;
-			opacity: 1;
-		}
-	}
-
-	@-ms-keyframes reveal-header {
 		0% {
 			top: -4em;
 			opacity: 0;
