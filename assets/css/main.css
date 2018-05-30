@@ -2048,7 +2048,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #9b4f90;
+				background-color: #a8a8ac;
 			}
 
 			input[type="submit"].special:active,
@@ -2056,7 +2056,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #793d70;
+				background-color: #a8a8ac;
 			}
 
 /* Form */
