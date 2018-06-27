@@ -2483,7 +2483,7 @@ table.alt tbody tr td {
 	background-color: #9b4f90;
 }
 .wrapper.style2 input[type="submit"].special:active, .wrapper.style2 input[type="reset"].special:active, .wrapper.style2 input[type="button"].special:active, .wrapper.style2 button.special:active, .wrapper.style2 .button.special:active {
-	background-color: #793d70;
+	background-color: #999999;
 }
 .wrapper.style2 label {
 	color: #000;
@@ -2620,7 +2620,7 @@ table.alt tbody tr td {
 	background-color: #9b4f90;
 }
 .wrapper.style3 input[type="submit"].special:active, .wrapper.style3 input[type="reset"].special:active, .wrapper.style3 input[type="button"].special:active, .wrapper.style3 button.special:active, .wrapper.style3 .button.special:active {
-	background-color: #793d70;
+	background-color: #999999;
 }
 .wrapper.style3 label {
 	color: #ffffff;
@@ -2821,7 +2821,7 @@ table.alt tbody tr td {
 	background-color: #9b4f90;
 }
 .wrapper.style4 input[type="submit"].special:active, .wrapper.style4 input[type="reset"].special:active, .wrapper.style4 input[type="button"].special:active, .wrapper.style4 button.special:active, .wrapper.style4 .button.special:active {
-	background-color: #793d70;
+	background-color: #999999;
 }
 .wrapper.style4 label {
 	color: #ffffff;
@@ -3022,7 +3022,7 @@ table.alt tbody tr td {
 	background-color: #9b4f90;
 }
 .wrapper.style5 input[type="submit"].special:active, .wrapper.style5 input[type="reset"].special:active, .wrapper.style5 input[type="button"].special:active, .wrapper.style5 button.special:active, .wrapper.style5 .button.special:active {
-	background-color: #793d70;
+	background-color: #999999;
 }
 .wrapper.style5 label {
 	color: #ffffff;
@@ -3223,7 +3223,7 @@ table.alt tbody tr td {
 	background-color: #9b4f90;
 }
 .wrapper.style6 input[type="submit"].special:active, .wrapper.style6 input[type="reset"].special:active, .wrapper.style6 input[type="button"].special:active, .wrapper.style6 button.special:active, .wrapper.style6 .button.special:active {
-	background-color: #793d70;
+	background-color: #999999;
 }
 .wrapper.style6 label {
 	color: #ffffff;
@@ -3424,7 +3424,7 @@ table.alt tbody tr td {
 	background-color: #9b4f90;
 }
 .wrapper.style7 input[type="submit"].special:active, .wrapper.style7 input[type="reset"].special:active, .wrapper.style7 input[type="button"].special:active, .wrapper.style7 button.special:active, .wrapper.style7 .button.special:active {
-	background-color: #793d70;
+	background-color: #999999;
 }
 .wrapper.style7 label {
 	color: #ffffff;
@@ -3622,10 +3622,10 @@ table.alt tbody tr td {
 	color: #ffffff !important;
 }
 .wrapper.style8 input[type="submit"].special:hover, .wrapper.style8 input[type="reset"].special:hover, .wrapper.style8 input[type="button"].special:hover, .wrapper.style8 button.special:hover, .wrapper.style8 .button.special:hover {
-	background-color: #9b4f90;
+	background-color: #999999;
 }
 .wrapper.style8 input[type="submit"].special:active, .wrapper.style8 input[type="reset"].special:active, .wrapper.style8 input[type="button"].special:active, .wrapper.style8 button.special:active, .wrapper.style8 .button.special:active {
-	background-color: #793d70;
+	background-color: #999999;
 }
 .wrapper.style8 label {
 	color: #ffffff;
@@ -3820,7 +3820,7 @@ color: #999999 !important;
 	background-color: #9b4f90;
 }
 .wrapper.style9 input[type="submit"].special:active, .wrapper.style9 input[type="reset"].special:active, .wrapper.style9 input[type="button"].special:active, .wrapper.style9 button.special:active, .wrapper.style9 .button.special:active {
-	background-color: #793d70;
+	background-color: #999999;
 }
 .wrapper.style9 label {
 	color: #ffffff;
