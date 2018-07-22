@@ -30,3 +30,6 @@ Follow-up with Regional Directors and County Chapter Presidents to collect membe
 **Databases**:
 Migrate Nationabuilder data to new hosting webservice as soon as accessible.
 Migrate personal server's membership and committee assignments data to new hosting webservice as soon as accessible.
+
+**Issues Page**:
+Are we using PADems platform? National platform? Our own platform?
