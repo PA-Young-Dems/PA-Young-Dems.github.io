@@ -170,7 +170,6 @@ body {
 	width: 90% !important;
 }
 }
-
 /* Grid */
 
 .row {
@@ -3361,7 +3360,7 @@ table.alt tbody tr td {
 .wrapper.style7 /*This is used for EDUCATION.html HEADER BACKGROUND*/ {
 	background-color: #000;
 	color: #bfbfbf;
-	background-image: url(/../../images/counties_head.jpg);
+	background-image: url(/../../images/issues/education.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 	background-position: center;
